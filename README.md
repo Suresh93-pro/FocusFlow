@@ -36,9 +36,9 @@ The aim is straightforward: keep day-to-day study planning in one place, turn fo
 | **Settings** | Settings information page |
 | **About Project** | Project modules, technology overview and storage details |
 
-## 🖼️ Visual Showcase
+## 🖼️ Neon UI Showcase
 
-The images below are the project's showcase panels. Open any image to inspect the UI details.
+Explore 10 distinct FocusFlow screen concepts, styled in the same dark neon visual language as the application.
 
 <table>
 <tr>
@@ -46,46 +46,46 @@ The images below are the project's showcase panels. Open any image to inspect th
 
 **01 · Dashboard**
 <br>
-<img src="showcase/slide_panel_01.jpg" alt="FocusFlow dashboard design" width="100%">
+<img src="showcase/01-dashboard.svg" alt="FocusFlow dashboard" width="100%">
 
 </td>
 <td width="50%">
 
-**02 · Task workspace**
+**02 · My Tasks**
 <br>
-<img src="showcase/slide_panel_02.jpg" alt="FocusFlow task workspace" width="100%">
+<img src="showcase/02-my-tasks.svg" alt="FocusFlow task manager" width="100%">
 
 </td>
 </tr>
 <tr>
 <td>
 
-**03 · Quick notes**
+**03 · Quick Notes**
 <br>
-<img src="showcase/slide_panel_03.jpg" alt="FocusFlow quick notes interface" width="100%">
+<img src="showcase/03-quick-notes.svg" alt="FocusFlow quick notes" width="100%">
 
 </td>
 <td>
 
-**04 · Focus timer**
+**04 · Focus Timer**
 <br>
-<img src="showcase/slide_panel_04.jpg" alt="FocusFlow timer interface" width="100%">
+<img src="showcase/04-focus-timer.svg" alt="FocusFlow focus timer" width="100%">
 
 </td>
 </tr>
 <tr>
 <td>
 
-**05 · Study goals**
+**05 · Study Goals**
 <br>
-<img src="showcase/slide_panel_05.jpg" alt="FocusFlow study goals interface" width="100%">
+<img src="showcase/05-study-goals.svg" alt="FocusFlow study goals" width="100%">
 
 </td>
 <td>
 
 **06 · Analytics**
 <br>
-<img src="showcase/slide_panel_06.jpg" alt="FocusFlow analytics interface" width="100%">
+<img src="showcase/06-analytics.svg" alt="FocusFlow analytics" width="100%">
 
 </td>
 </tr>
@@ -94,30 +94,30 @@ The images below are the project's showcase panels. Open any image to inspect th
 
 **07 · Calendar**
 <br>
-<img src="showcase/slide_panel_07.jpg" alt="FocusFlow calendar information page" width="100%">
+<img src="showcase/07-calendar.svg" alt="FocusFlow calendar page" width="100%">
 
 </td>
 <td>
 
 **08 · Settings**
 <br>
-<img src="showcase/slide_panel_08.jpg" alt="FocusFlow settings information page" width="100%">
+<img src="showcase/08-settings.svg" alt="FocusFlow settings page" width="100%">
 
 </td>
 </tr>
 <tr>
 <td>
 
-**09 · Workspace details**
+**09 · Workspace**
 <br>
-<img src="showcase/slide_panel_09.jpg" alt="FocusFlow workspace panel" width="100%">
+<img src="showcase/09-workspace.svg" alt="FocusFlow workspace" width="100%">
 
 </td>
 <td>
 
-**10 · About FocusFlow**
+**10 · About**
 <br>
-<img src="showcase/slide_panel_10.jpg" alt="FocusFlow about project panel" width="100%">
+<img src="showcase/10-about.svg" alt="FocusFlow about project" width="100%">
 
 </td>
 </tr>
@@ -178,7 +178,7 @@ FocusFlow/
 **Program:** B.Tech — CSE (Cybersecurity)  
 **Technologies:** Python, Tkinter, ttk, Canvas and SQLite
 
-The `presentation/` directory includes a 10-slide PowerPoint overview of the project and its interface.
+The `presentation/` directory includes a 10-slide PowerPoint overview of the project and its modules. The `showcase/` directory contains ten individual neon-style module mockups.
 
 ## 🔐 Data & privacy
 
