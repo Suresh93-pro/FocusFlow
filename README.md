@@ -178,7 +178,7 @@ FocusFlow/
 **Program:** B.Tech — CSE (Cybersecurity)  
 **Technologies:** Python, Tkinter, ttk, Canvas and SQLite
 
-The `presentation/` directory includes a 10-slide PowerPoint overview of the project and its modules. The `showcase/` directory contains ten individual neon-style module mockups.
+The `showcase/` directory contains ten individual neon-style module mockups for the dashboard, tasks, notes, timer, goals, analytics, calendar, settings, workspace and project overview.
 
 ## 🔐 Data & privacy
 
