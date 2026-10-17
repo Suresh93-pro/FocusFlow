@@ -163,12 +163,17 @@ FocusFlow/
 ├── PROJECT_OVERVIEW.txt
 ├── README.md
 ├── .gitignore
-├── showcase/
-│   ├── slide_panel_01.jpg
-│   ├── ...
-│   └── slide_panel_10.jpg
-└── presentation/
-    └── FocusFlow_10_Slide_Presentation.pptx
+└── showcase/
+    ├── 01-dashboard.svg
+    ├── 02-my-tasks.svg
+    ├── 03-quick-notes.svg
+    ├── 04-focus-timer.svg
+    ├── 05-study-goals.svg
+    ├── 06-analytics.svg
+    ├── 07-calendar.svg
+    ├── 08-settings.svg
+    ├── 09-workspace.svg
+    └── 10-about.svg
 ```
 
 ## 🎓 Project details
