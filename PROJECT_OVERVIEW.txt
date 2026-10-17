@@ -1,0 +1,15 @@
+FOCUSFLOW PROJECT OVERVIEW — NO AI ASSISTANT
+
+Modules:
+1. Dashboard
+2. My Tasks
+3. Quick Notes
+4. Focus Timer
+5. Study Goals
+6. Analytics
+7. Calendar information page
+8. Settings information page
+9. About Project
+
+Technologies: Python, Tkinter, ttk, Canvas, SQLite.
+No AI Assistant/API integration, no pip packages, no MySQL Workbench.
